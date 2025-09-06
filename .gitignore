@@ -21,3 +21,9 @@ huggingface_hub/
 # OS-specific
 .DS_Store
 Thumbs.db
+
+# runs
+runs
+runs/
+
+yolo11n.pt
